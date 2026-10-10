@@ -1,0 +1,9 @@
+{
+  "geode": "v5.6.1",
+  "gd": { "android": "2.2074" },
+  "id": "cocoa.level-import",
+  "name": "Level Import",
+  "version": "v0.1.0",
+  "developer": "Cocoa",
+  "description": "DGG6 JSON level import/export prototype"
+}
