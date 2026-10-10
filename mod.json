@@ -1,0 +1,9 @@
+{
+  "geode": "5.6.1",
+  "gd": { "android": "2.2074" },
+  "id": "cocoa.level-import",
+  "name": "Level Import",
+  "version": "0.1.0",
+  "developer": "Cocoa Team",
+  "description": "Experimental .dgg6 JSON validation prototype for Geometry Dash."
+}
